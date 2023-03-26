@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "GlabClientes",
+    "slug": "GlabClientes",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
